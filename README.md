@@ -1,2 +1,6 @@
 # laboratorio_TP
-trabajo practico de laboratorio
+trábajo práctico de laboratorio
+integrantes: Cristian Ariel Diaz
+             Christian Agustín Boquete Benitez
+             Gabriel Orlando Avellaneda
+             Carabajal Miguel Angel
