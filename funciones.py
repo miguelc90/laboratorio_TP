@@ -21,7 +21,7 @@ def enlace_conexion():
             user = 'root',
             password = 'root',
             host = 'localhost',
-            port = '3308',
+            port = '3306',
         )
         #retornamos el objeto de la conexion si fue exitosa
         return conexion
@@ -54,7 +54,7 @@ def data_base_existe():
             host='localhost',
             user='root',
             password='root',
-            port='3308',
+            port='3306',
             database='gestion_alumnos'
         )
         return True
